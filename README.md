@@ -1,5 +1,5 @@
 # HumanResources
-Reorganizes person list on text file and converts from metric to imperial. 
+Reorganizes person list in text file and converts from metric to imperial. 
 Outputs two txt files.
 
 Jovani Boyd
